@@ -52,7 +52,7 @@ export default function SSGStudents({ data, lastUpdatedAt }) {
 
                 
                 <Content style={{ padding: "50px", backgroundColor: "white", minHeight: "100vh" }}>
-                    <p style={{ fontSize: "40px", fontWeight: "bold" }}>SSG Todos Page</p>
+                    <p style={{ fontSize: "40px", fontWeight: "bold" }}>SSG + ISR ygy</p>
 
                    
                     <p style={{ fontSize: "14px", color: "gray" }}>
